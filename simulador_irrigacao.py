@@ -56,4 +56,4 @@ try:
         time.sleep(10)
 except KeyboardInterrupt:
     print("\nParado pelo usuário.")
-
+#Comentando alteração via GIT --Guilherme
